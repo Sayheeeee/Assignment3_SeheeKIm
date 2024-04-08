@@ -21,3 +21,5 @@ mean_c
 
 getwd()
 
+lapply(data_airquality,sum)
+lapply(data_airquality,mean)
